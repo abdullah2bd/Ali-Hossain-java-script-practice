@@ -14,15 +14,10 @@ d = 22;
 {
   const h = `i am a student`;
 console.log(h);
-
 }
 console.log(h);
 
-
 {
   var f = 22;
-
-
-
 }
 console.log(f);
