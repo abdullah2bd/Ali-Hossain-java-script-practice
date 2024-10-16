@@ -3,6 +3,7 @@
 
 const mobileModel = {
   //key: value
+  brand: 'Samsung',
 }
 
 
